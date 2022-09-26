@@ -13,13 +13,13 @@ That’s why I developed a program that can check a password, using only our com
 
 **The goal:** Creat a program that can be helpful for people to provide more secure for their information.
 
-That's how you can check the password.
+That's how you can check the password:
 ![codeqwwert](https://user-images.githubusercontent.com/102950421/192194069-16f14e85-0a26-4364-8d3e-56427867af00.png)
 
-It says if you have a strong enough password.
+It says if you have a strong enough password:
 ![strong](https://user-images.githubusercontent.com/102950421/192194131-eb984cf1-4a9f-497b-9780-cd56cad9b604.png)
 
-Or you can check several password at once.
+Or you can check several password at once:
 ![several](https://user-images.githubusercontent.com/102950421/192194206-0002ab4b-6382-4982-9fad-ef40d4924cae.png)
 
 
