@@ -7,6 +7,8 @@ In our digital world we have a lot of data that have to be secured. Therefore we
 
 That’s why I developed a program that can check a password, using only our computers. This program shows how many times your password has been hacked. Or when we come up with some watchwords, we can check them, and so can choose the most secure one.
 
+**Project Overview:**
+
 **About the program**: Password Checker can help you to determine how many times a certain password has been hacked. So you can select the most secure one.
 
 **The challenge:** people who’s dealt with’s got hacked by their passwords.
