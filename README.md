@@ -13,6 +13,8 @@ That’s why I developed a program that can check a password, using only our com
 
 **The goal:** Creat a program that can be helpful for people to provide more secure for their information.
 
+**What I did during the project:** developed a program, using API.
+
 That's how you can check the password:
 ![codeqwwert](https://user-images.githubusercontent.com/102950421/192194069-16f14e85-0a26-4364-8d3e-56427867af00.png)
 
