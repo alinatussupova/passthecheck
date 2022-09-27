@@ -18,12 +18,18 @@ That’s why I developed a program that can check a password, using only our com
 **What I did during the project:** developed a program, using API.
 
 That's how you can check the password:
-![codeqwwert](https://user-images.githubusercontent.com/102950421/192194069-16f14e85-0a26-4364-8d3e-56427867af00.png)
+![image](https://user-images.githubusercontent.com/102950421/192416319-91e43fe2-ac83-40dc-84ad-58fe80c8e81a.png)
+
+
 
 It says if you have a strong enough password:
-![strong](https://user-images.githubusercontent.com/102950421/192194131-eb984cf1-4a9f-497b-9780-cd56cad9b604.png)
+![image](https://user-images.githubusercontent.com/102950421/192416519-9ca7b206-4c97-43e9-9fb5-74bf3341ac82.png)
+
+
 
 Or you can check several password at once:
-![several](https://user-images.githubusercontent.com/102950421/192194206-0002ab4b-6382-4982-9fad-ef40d4924cae.png)
+![image](https://user-images.githubusercontent.com/102950421/192416618-eece081b-1498-44e6-9972-35c1908a0ad7.png)
+
+
 
 
