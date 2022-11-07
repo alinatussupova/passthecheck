@@ -14,7 +14,7 @@ That’s why I developed a program that can check a password, using only our com
 
 **The challenge:** people who’s dealt with’s got hacked by their passwords.
 
-**The goal:** Creat a program that can be helpful for people to provide more secure for their information.
+**The goal:** Create a program that can be helpful for people to provide more security for their information.
 
 **What I did during the project:** developed a program, using API.
 
