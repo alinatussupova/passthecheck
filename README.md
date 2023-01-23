@@ -1,6 +1,6 @@
 # Password Checker
 
-![image](https://user-images.githubusercontent.com/102950421/200293120-b0910820-05be-406b-a94a-bea9a1726b39.png)
+
 
 
 
