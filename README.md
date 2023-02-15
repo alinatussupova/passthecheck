@@ -8,7 +8,7 @@ In our digital world we have a lot of data that have to be secured. Therefore we
 
 That’s why I developed a program that can check a password, using only our computers. This program shows how many times your password has been hacked. Or when we come up with some watchwords, we can check them, and so can choose the most secure one.
 
-**Project Overview:**
+<h3>Project Overview</h3>
 
 **About the program**: Password Manager can help you to determine how many times a certain password has been hacked. So you can select the most secure one.
 
@@ -16,7 +16,6 @@ That’s why I developed a program that can check a password, using only our com
 
 **The goal:** Create a program that can be helpful for people to provide more security for their information.
 
-**What I did during the project:** developed a program, using API.
 
 That's how you can check the password:
 ![image](https://user-images.githubusercontent.com/102950421/192416319-91e43fe2-ac83-40dc-84ad-58fe80c8e81a.png)
