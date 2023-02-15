@@ -12,7 +12,7 @@ That’s why I developed a program that can check a password, using only our com
 
 **About the program**: Password Manager can help you to determine how many times a certain password has been hacked. So you can select the most secure one.
 
-**The challenge:** people who’s dealt with’s got hacked by their passwords.
+**The challenge:** people whose data has been breached.
 
 **The goal:** Create a program that can be helpful for people to provide more security for their information.
 
