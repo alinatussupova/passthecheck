@@ -1,4 +1,4 @@
-# Password Checker
+# Password Manager
 
 
 
