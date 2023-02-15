@@ -16,7 +16,6 @@ That’s why I developed a program that can check a password, using only our com
 
 **The goal:** Create a program that can be helpful for people to provide more security for their information.
 
-**What I did during the project:** developed a program, using API.
 
 That's how you can check the password:
 ![image](https://user-images.githubusercontent.com/102950421/192416319-91e43fe2-ac83-40dc-84ad-58fe80c8e81a.png)
